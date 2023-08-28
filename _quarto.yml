@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "Introduction to Xanadu"
+  author: "Noah Reid"
+  date: "8/28/2023"
+  chapters:
+    - index.qmd
+    - part-1.qmd
+    - part-2.qmd
+    - part-3.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

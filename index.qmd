@@ -1,0 +1,9 @@
+# Preface {.unnumbered}
+
+This is an introduction to the Xanadu high performance computng cluster. 
+
+Here you will watch a series of videos and do some exercises that are meant to help you understand the cluster, get you connected to it and starting to do work. 
+
+# Contact us
+
+If you need help please contact us on...
