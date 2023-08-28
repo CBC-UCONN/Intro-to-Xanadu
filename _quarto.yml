@@ -7,11 +7,11 @@ book:
   date: "8/28/2023"
   chapters:
     - index.qmd
-  part: "Principles"
-    - part-1.qmd
-    - part-2.qmd
-  part: "Practice"
-    - part-3.qmd
+    - part: "Principles"
+        - part-1.qmd
+        - part-2.qmd
+    - part: "Practice"
+      - part-3.qmd
     - references.qmd
 
 bibliography: references.bib
