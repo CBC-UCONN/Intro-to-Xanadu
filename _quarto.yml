@@ -1,28 +1,25 @@
 project:
   type: book
-
 book:
-  title: "Introduction to Xanadu"
-  author: "Noah Reid"
-  date: "8/28/2023"
+  title: Introduction to Xanadu
+  author: Noah Reid
+  date: 8/28/2023
   chapters:
-    - index.qmd
-    - part: "Principles"
-      chapters:
-        - part-1.qmd
-        - part-2.qmd
-    - part: "Practice"
-      chapters:
-        - part-3.qmd
-    - references.qmd
-
+  - index.qmd
+  - part: Principles
+    chapters:
+    - part-1.qmd
+    - part-2.qmd
+  - part: Practice
+    chapters: 
+    - part-3.qmd
+  - references.qmd
 bibliography: references.bib
-
 format:
   html:
     theme: cosmo
+    css: include/webex.css
+    include-after-body: include/webex.js
   pdf:
     documentclass: scrreprt
-
 editor: visual
-
