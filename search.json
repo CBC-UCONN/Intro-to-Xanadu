@@ -11,7 +11,7 @@
     "href": "part-1.html",
     "title": "1  What is Xanadu?",
     "section": "",
-    "text": "The first video will go here."
+    "text": "The first video will go here.\n{{r HPC, echo=FALSE}} question(\"What does HPC stand for?\",   answer(\"High Pork Count\"),   answer(\"Hark! Party Crashers!\"),   answer(\"High Performance Computing\", correct = TRUE),   answer(\"Hungry Purple Catbird\") )"
   },
   {
     "objectID": "part-2.html",
