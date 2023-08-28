@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Xanadu",
+    "section": "",
+    "text": "Preface\nThis is an introduction to the Xanadu high performance computng cluster.\nHere you will watch a series of videos and do some exercises that are meant to help you understand the cluster, get you connected to it and starting to do work.\n\n\nContact us\nIf you need help please contact us on…"
+  },
+  {
+    "objectID": "part-1.html",
+    "href": "part-1.html",
+    "title": "1  What is Xanadu?",
+    "section": "",
+    "text": "The first video will go here."
+  },
+  {
+    "objectID": "part-2.html",
+    "href": "part-2.html",
+    "title": "2  Part 2",
+    "section": "",
+    "text": "The second video will go here."
+  },
+  {
+    "objectID": "part-3.html",
+    "href": "part-3.html",
+    "title": "3  Part 3",
+    "section": "",
+    "text": "The third video will go here."
+  }
+]
