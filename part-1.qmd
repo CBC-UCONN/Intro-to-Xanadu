@@ -2,8 +2,8 @@
 
 The first video will go here.
 
-```{{r HPC, echo=FALSE}}
-question("What does HPC stand for?",
+```{r HPC, echo=F}
+  question("What does HPC stand for?",
   answer("High Pork Count"),
   answer("Hark! Party Crashers!"),
   answer("High Performance Computing", correct = TRUE),
