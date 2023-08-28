@@ -2,11 +2,3 @@
 
 The first video will go here.
 
-```{r HPC, echo=F}
-  question("What does HPC stand for?",
-  answer("High Pork Count"),
-  answer("Hark! Party Crashers!"),
-  answer("High Performance Computing", correct = TRUE),
-  answer("Hungry Purple Catbird")
-)
-```
