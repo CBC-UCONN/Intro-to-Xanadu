@@ -7,24 +7,73 @@
     "text": "Preface\nThis is an introduction to the Xanadu high performance computng cluster.\nHere you will watch a series of videos and do some exercises that are meant to help you understand the cluster, get you connected to it and starting to do work.\n\n\nContact us\nIf you need help please contact us on…"
   },
   {
-    "objectID": "part-1.html",
-    "href": "part-1.html",
+    "objectID": "part-1.html#watch-the-video",
+    "href": "part-1.html#watch-the-video",
     "title": "1  What is High Performance Computing?",
-    "section": "",
-    "text": "What does the acronym HPC stand for?\n\n Hark! Party Crashers! High Performance Computing Hearty Pork Chili\n\nWhy do we use HPC resources in the biological sciences?\n\n Biology is too easy, so we need to keep ourselves occupied by learning other skills. If we analyze data on our laptops, we won't be able to use them to watch cat videos. Typical consumer-grade computers don't have enough computing power to handle many large datasets."
+    "section": "1.1 Watch the video",
+    "text": "1.1 Watch the video\nThis first video covers the motivation for using HPC resources in the biological sciences."
   },
   {
-    "objectID": "part-2.html",
-    "href": "part-2.html",
-    "title": "2  The parts of Xanadu",
-    "section": "",
-    "text": "The second video will go here."
+    "objectID": "part-1.html#test-your-knowledge",
+    "href": "part-1.html#test-your-knowledge",
+    "title": "1  What is High Performance Computing?",
+    "section": "1.2 Test your knowledge",
+    "text": "1.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nWhat does the acronym HPC stand for?\n\n Hark! Party Crashers! High Performance Computing Hearty Pork Chili\n\nWhy do we use HPC resources in the biological sciences?\n\n Biology is too easy, so we need to keep ourselves occupied by learning other skills. If we analyze data on our laptops, we won't be able to use them to watch cat videos. Typical consumer-grade computers don't have enough computing power to handle many large datasets."
   },
   {
-    "objectID": "part-3.html",
-    "href": "part-3.html",
-    "title": "3  Logging in to Xanadu",
-    "section": "",
-    "text": "The third video will go here."
+    "objectID": "part-2.html#watch-the-video",
+    "href": "part-2.html#watch-the-video",
+    "title": "2  The Components of a Computer Cluster",
+    "section": "2.1 Watch the video",
+    "text": "2.1 Watch the video\nThe second video explains the main components of a high performance computer cluster."
+  },
+  {
+    "objectID": "part-2.html#test-your-knowledge",
+    "href": "part-2.html#test-your-knowledge",
+    "title": "2  The Components of a Computer Cluster",
+    "section": "2.2 Test your knowledge",
+    "text": "2.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nQuestion 1?\n\n a1 a2 a3\n\nQuestion 2?\n\n a1 a2 a3"
+  },
+  {
+    "objectID": "part-3.html#watch-the-video",
+    "href": "part-3.html#watch-the-video",
+    "title": "3  Xanadu HPC: Submit Node Details",
+    "section": "3.1 Watch the video",
+    "text": "3.1 Watch the video\nThe second video explains the main components of a high performance computer cluster."
+  },
+  {
+    "objectID": "part-3.html#test-your-knowledge",
+    "href": "part-3.html#test-your-knowledge",
+    "title": "3  Xanadu HPC: Submit Node Details",
+    "section": "3.2 Test your knowledge",
+    "text": "3.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nQuestion 1?\n\n a1 a2 a3\n\nQuestion 2?\n\n a1 a2 a3"
+  },
+  {
+    "objectID": "part-4.html#watch-the-video",
+    "href": "part-4.html#watch-the-video",
+    "title": "4  HPC in Bioinformatics: How does it help?",
+    "section": "4.1 Watch the video",
+    "text": "4.1 Watch the video\nThe second video explains the main components of a high performance computer cluster."
+  },
+  {
+    "objectID": "part-4.html#test-your-knowledge",
+    "href": "part-4.html#test-your-knowledge",
+    "title": "4  HPC in Bioinformatics: How does it help?",
+    "section": "4.2 Test your knowledge",
+    "text": "4.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nQuestion 1?\n\n a1 a2 a3\n\nQuestion 2?\n\n a1 a2 a3"
+  },
+  {
+    "objectID": "part-7.html#watch-the-video",
+    "href": "part-7.html#watch-the-video",
+    "title": "5  Connecting to Xanadu - Hands-On",
+    "section": "5.1 Watch the video",
+    "text": "5.1 Watch the video\nThe second video explains the main components of a high performance computer cluster."
+  },
+  {
+    "objectID": "part-7.html#test-your-knowledge",
+    "href": "part-7.html#test-your-knowledge",
+    "title": "5  Connecting to Xanadu - Hands-On",
+    "section": "5.2 Test your knowledge",
+    "text": "5.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nQuestion 1?\n\n a1 a2 a3\n\nQuestion 2?\n\n a1 a2 a3"
   }
 ]

@@ -124,7 +124,19 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./part-2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">The parts of Xanadu</span></span></a>
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">The Components of a Computer Cluster</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./part-3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Xanadu HPC: Submit Node Details</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./part-4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">HPC in Bioinformatics: How does it help?</span></span></a>
   </div>
 </li>
       </ul>
@@ -140,8 +152,8 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./part-3.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Logging in to Xanadu</span></span></a>
+  <a href="./part-7.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Connecting to Xanadu - Hands-On</span></span></a>
   </div>
 </li>
       </ul>
@@ -158,7 +170,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#watch-the-video" id="toc-watch-the-video" class="nav-link active" data-scroll-target="#watch-the-video"><span class="header-section-number">1.1</span> Watch the video</a></li>
+  <li><a href="#test-your-knowledge" id="toc-test-your-knowledge" class="nav-link" data-scroll-target="#test-your-knowledge"><span class="header-section-number">1.2</span> Test your knowledge</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -180,19 +199,27 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="watch-the-video" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="watch-the-video"><span class="header-section-number">1.1</span> Watch the video</h2>
+<p>This first video covers the motivation for using HPC resources in the biological sciences.</p>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Yz8W3-iEdzE?si=XgibQkMb37Wlpqt1" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="test-your-knowledge" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="test-your-knowledge"><span class="header-section-number">1.2</span> Test your knowledge</h2>
+<p>After watching the video, check your knowledge by answering the following questions.</p>
 <div class="webex-check webex-box">
 What does the acronym HPC stand for?
-<div id="radio_GCNNWRAFKC" class="webex-radiogroup">
-<label><input type="radio" autocomplete="off" name="radio_GCNNWRAFKC" value=""> <span>Hark! Party Crashers!</span></label><label><input type="radio" autocomplete="off" name="radio_GCNNWRAFKC" value="answer"> <span>High Performance Computing</span></label><label><input type="radio" autocomplete="off" name="radio_GCNNWRAFKC" value=""> <span>Hearty Pork Chili</span></label>
+<div id="radio_UPFBUUZNAE" class="webex-radiogroup">
+<label><input type="radio" autocomplete="off" name="radio_UPFBUUZNAE" value=""> <span>Hark! Party Crashers!</span></label><label><input type="radio" autocomplete="off" name="radio_UPFBUUZNAE" value="answer"> <span>High Performance Computing</span></label><label><input type="radio" autocomplete="off" name="radio_UPFBUUZNAE" value=""> <span>Hearty Pork Chili</span></label>
 </div>
 Why do we use HPC resources in the biological sciences?
-<div id="radio_DODWZQTETW" class="webex-radiogroup">
-<label><input type="radio" autocomplete="off" name="radio_DODWZQTETW" value=""> <span>Biology is too easy, so we need to keep ourselves occupied by learning other skills.</span></label><label><input type="radio" autocomplete="off" name="radio_DODWZQTETW" value=""> <span>If we analyze data on our laptops, we won't be able to use them to watch cat videos.</span></label><label><input type="radio" autocomplete="off" name="radio_DODWZQTETW" value="answer"> <span>Typical consumer-grade computers don't have enough computing power to handle many large datasets.</span></label>
+<div id="radio_CZTGHTHDDB" class="webex-radiogroup">
+<label><input type="radio" autocomplete="off" name="radio_CZTGHTHDDB" value=""> <span>Biology is too easy, so we need to keep ourselves occupied by learning other skills.</span></label><label><input type="radio" autocomplete="off" name="radio_CZTGHTHDDB" value=""> <span>If we analyze data on our laptops, we won't be able to use them to watch cat videos.</span></label><label><input type="radio" autocomplete="off" name="radio_CZTGHTHDDB" value="answer"> <span>Typical consumer-grade computers don't have enough computing power to handle many large datasets.</span></label>
 </div>
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script>
@@ -642,7 +669,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
   <div class="nav-page nav-page-next">
       <a href="./part-2.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">The parts of Xanadu</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">The Components of a Computer Cluster</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
