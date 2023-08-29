@@ -1,3 +1,39 @@
-# Logging in to Xanadu
+# Xanadu HPC: Submit Node Details
 
-The third video will go here.
+```{r, echo = FALSE, results='asis'}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Uncomment to change widget colours:
+#style_widgets(incorrect = "goldenrod", correct = "purple", highlight = "firebrick")
+```
+
+## Watch the video
+
+The second video explains the main components of a high performance computer cluster.
+
+{{< video https://www.youtube.com/embed/gPD6kXy6Qh0?si=EPsOrL-sQgm682bE >}}
+
+## Test your knowledge
+
+After watching the video, check your knowledge by answering the following questions.
+
+::: {.webex-check .webex-box}
+```{r, results='asis'}
+# QUESTION 1
+opts1 <- c(
+   "a1",
+   answer = "a2",
+   "a3"
+)
+cat("Question 1?", longmcq(opts1))
+
+# QUESTION 2
+opts1 <- c(
+   "a1",
+   "a2",
+   answer = "a3"
+)
+cat("Question 2?", longmcq(opts1))
+
+```
+:::

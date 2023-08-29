@@ -1,4 +1,4 @@
-# The Components of a Computer Cluster
+# HPC in Bioinformatics: How does it help?
 
 ```{r, echo = FALSE, results='asis'}
 knitr::opts_chunk$set(echo = FALSE)
@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 The second video explains the main components of a high performance computer cluster.
 
-{{< video https://www.youtube.com/embed/6loMm3xRKxQ?si=Ke-nFew_55rH9Jbc >}}
+{{< video https://www.youtube.com/embed/dV6mM-GJeII?si=Q6X8HtYdnR9XhZsf >}}
 
 ## Test your knowledge
 

@@ -10,9 +10,11 @@ book:
     chapters:
     - part-1.qmd
     - part-2.qmd
+    - part-3.qmd
+    - part-4.qmd
   - part: Practice
     chapters: 
-    - part-3.qmd
+    - part-7.qmd
   - references.qmd
 bibliography: references.bib
 format:
