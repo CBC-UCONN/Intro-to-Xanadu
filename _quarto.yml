@@ -12,6 +12,7 @@ book:
     - part-2.qmd
     - part-3.qmd
     - part-4.qmd
+    - part-5.qmd
   - part: Practice
     chapters: 
     - part-7.qmd
