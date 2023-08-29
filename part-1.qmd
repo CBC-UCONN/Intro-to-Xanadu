@@ -9,13 +9,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Watch the video
 
-This first video covers the motivation for using HPC resources in the biological sciences. 
+This first video covers the motivation for using HPC resources in the biological sciences.
 
 {{< video https://www.youtube.com/embed/Yz8W3-iEdzE?si=XgibQkMb37Wlpqt1 >}}
 
 ## Test your knowledge
 
-After watching the video, check your knowledge by answering the following questions. 
+After watching the video, check your knowledge by answering the following questions.
 
 ::: {.webex-check .webex-box}
 ```{r, results='asis'}
