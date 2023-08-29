@@ -1,4 +1,4 @@
-# What is Xanadu?
+# What is High Performance Computing?
 
 ```{r, echo = FALSE, results='asis'}
 knitr::opts_chunk$set(echo = FALSE)
@@ -7,36 +7,26 @@ knitr::opts_chunk$set(echo = FALSE)
 #style_widgets(incorrect = "goldenrod", correct = "purple", highlight = "firebrick")
 ```
 
-The first video will go here.
-
 {{< video https://www.youtube.com/embed/Yz8W3-iEdzE?si=XgibQkMb37Wlpqt1 >}}
-
-"Never gonna give you up, never gonna: `r mcq(c("let you go", "turn you down", "run away", answer = "let you down"))`"
-
-
-**What is a p-value?**
-
-```{r}
-opts_p <- c(
-   "the probability that the null hypothesis is true",
-   answer = "the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true",
-   "the probability of making an error in your conclusion"
-)
-```
-
-`r longmcq(opts_p)`
 
 
 ::: {.webex-check .webex-box}
-I am going to learn a lot: `r torf(TRUE)`
-
 ```{r, results='asis'}
-opts <- c(
-   "the probability that the null hypothesis is true",
-   answer = "the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true",
-   "the probability of making an error in your conclusion"
+# QUESTION 1
+opts1 <- c(
+   "Hark! Party Crashers!",
+   answer = "High Performance Computing",
+   "Hearty Pork Chili"
 )
+cat("What does the acronym HPC stand for?", longmcq(opts1))
 
-cat("What is a p-value?", longmcq(opts))
+# QUESTION 2
+opts1 <- c(
+   "Biology is too easy, so we need to keep ourselves occupied by learning other skills.",
+   "If we analyze data on our laptops, we won't be able to use them to watch cat videos.",
+   answer = "Typical consumer-grade computers don't have enough computing power to handle many large datasets."
+)
+cat("Why do we use HPC resources in the biological sciences?", longmcq(opts1))
+
 ```
 :::
