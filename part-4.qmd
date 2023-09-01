@@ -21,19 +21,27 @@ After watching the video, check your knowledge by answering the following questi
 ```{r, results='asis'}
 # QUESTION 1
 opts1 <- c(
-   "a1",
-   answer = "a2",
-   "a3"
+   "importance of jobs",
+   answer = "first come first serve",
+   "number of resources requested"
 )
-cat("Question 1?", longmcq(opts1))
+cat("How is the queue managed?", longmcq(opts1))
 
 # QUESTION 2
 opts1 <- c(
-   "a1",
-   "a2",
-   answer = "a3"
+   answer = "use of multiple cpu",
+   "reservation of RAM",
+   "submitting multiple jobs"
 )
-cat("Question 2?", longmcq(opts1))
+cat("What is parallelism or multi-threading?", longmcq(opts1))
+
+# QUESTION 3
+opts1 <- c(
+   "125-fold",
+   "3-fold",
+   answer = "15-fold"
+)
+cat("If you take 5 files, and run a job using 3 cpus per file, how much are you decreasing the time it takes for your job to run?", longmcq(opts1))
 
 ```
 :::

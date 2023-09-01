@@ -21,19 +21,18 @@ After watching the video, check your knowledge by answering the following questi
 ```{r, results='asis'}
 # QUESTION 1
 opts1 <- c(
-   "a1",
-   answer = "a2",
-   "a3"
+   "yes",
+   answer = "no"
 )
-cat("Question 1?", longmcq(opts1))
+cat("Can you run analyses on the head node?", longmcq(opts1))
 
 # QUESTION 2
 opts1 <- c(
-   "a1",
-   "a2",
-   answer = "a3"
+   "gpu nodes",
+   answer = "all of them",
+   "xanadu-01-5"
 )
-cat("Question 2?", longmcq(opts1))
+cat("Which compute nodes can hpc-ext-5 access?", longmcq(opts1))
 
 ```
 :::

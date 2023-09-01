@@ -21,19 +21,20 @@ After watching the video, check your knowledge by answering the following questi
 ```{r, results='asis'}
 # QUESTION 1
 opts1 <- c(
-   "a1",
-   answer = "a2",
-   "a3"
+   "head node",
+   "login node",
+   "submit node",
+   answer = "all of the above"
 )
-cat("Question 1?", longmcq(opts1))
+cat("What is the name of the node you connect to / login on?", longmcq(opts1))
 
 # QUESTION 2
 opts1 <- c(
-   "a1",
-   "a2",
-   answer = "a3"
+   "general",
+   "himem2",
+   answer = "lowmem1"
 )
-cat("Question 2?", longmcq(opts1))
+cat("Which of the following is not a partition on xanadu?", longmcq(opts1))
 
 ```
 :::

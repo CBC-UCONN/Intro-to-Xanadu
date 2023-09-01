@@ -1,4 +1,4 @@
-# Connecting to Linux Server?
+# Connecting to Linux Server
 
 ```{r, echo = FALSE, results='asis'}
 knitr::opts_chunk$set(echo = FALSE)
@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 The second video explains the main components of a high performance computer cluster.
 
-{{< video https://www.youtube.com/embed/dV6mM-GJeII?si=Q6X8HtYdnR9XhZsf >}}
+{{< video https://www.youtube.com/embed/oWnz1PXlAws?si=ps2-42tzN9-aCAfv >}}
 
 ## Test your knowledge
 
@@ -21,19 +21,19 @@ After watching the video, check your knowledge by answering the following questi
 ```{r, results='asis'}
 # QUESTION 1
 opts1 <- c(
-   "a1",
-   answer = "a2",
-   "a3"
+   "terminal",
+   answer = "SSH",
+   "submit"
 )
-cat("Question 1?", longmcq(opts1))
+cat("What command do you use to log in?", longmcq(opts1))
 
 # QUESTION 2
 opts1 <- c(
-   "a1",
-   "a2",
-   answer = "a3"
+   "hpc-int",
+   "xanadu",
+   answer = "hpc-ext"
 )
-cat("Question 2?", longmcq(opts1))
+cat("Does the name of your login node start with", longmcq(opts1))
 
 ```
 :::
