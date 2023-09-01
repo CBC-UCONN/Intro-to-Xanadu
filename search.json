@@ -32,7 +32,7 @@
     "href": "part-2.html#test-your-knowledge",
     "title": "2  The Components of a Computer Cluster",
     "section": "2.2 Test your knowledge",
-    "text": "2.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nQuestion 1?\n\n a1 a2 a3\n\nQuestion 2?\n\n a1 a2 a3"
+    "text": "2.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nWhat is the name of the node you connect to / login on?\n\n head node login node submit node all of the above\n\nWhich of the following is not a partition on xanadu?\n\n general himem2 lowmem1"
   },
   {
     "objectID": "part-3.html#watch-the-video",
@@ -46,7 +46,7 @@
     "href": "part-3.html#test-your-knowledge",
     "title": "3  Xanadu HPC: Submit Node Details",
     "section": "3.2 Test your knowledge",
-    "text": "3.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nQuestion 1?\n\n a1 a2 a3\n\nQuestion 2?\n\n a1 a2 a3"
+    "text": "3.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nCan you run analyses on the head node?\n\n yes no\n\nWhich compute nodes can hpc-ext-5 access?\n\n gpu nodes all of them xanadu-01-5"
   },
   {
     "objectID": "part-4.html#watch-the-video",
@@ -60,7 +60,7 @@
     "href": "part-4.html#test-your-knowledge",
     "title": "4  HPC in Bioinformatics: How does it help?",
     "section": "4.2 Test your knowledge",
-    "text": "4.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nQuestion 1?\n\n a1 a2 a3\n\nQuestion 2?\n\n a1 a2 a3"
+    "text": "4.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nHow is the queue managed?\n\n importance of jobs first come first serve number of resources requested\n\nWhat is parallelism or multi-threading?\n\n use of multiple cpu reservation of RAM submitting multiple jobs\n\nIf you take 5 files, and run a job using 3 cpus per file, how much are you decreasing the time it takes for your job to run?\n\n 125-fold 3-fold 15-fold"
   },
   {
     "objectID": "part-5.html#watch-the-video",
@@ -74,21 +74,21 @@
     "href": "part-5.html#test-your-knowledge",
     "title": "5  RAM vs CPU",
     "section": "5.2 Test your knowledge",
-    "text": "5.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nQuestion 1?\n\n a1 a2 a3\n\nQuestion 2?\n\n a1 a2 a3"
+    "text": "5.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nRAM is:\n\n Readily Available Memory Random Access Memory Read Access Mounts\n\nCPU is:\n\n memory software processors"
   },
   {
     "objectID": "part-6.html#watch-the-video",
     "href": "part-6.html#watch-the-video",
-    "title": "6  Connecting to Linux Server?",
+    "title": "6  Connecting to Linux Server",
     "section": "6.1 Watch the video",
     "text": "6.1 Watch the video\nThe second video explains the main components of a high performance computer cluster."
   },
   {
     "objectID": "part-6.html#test-your-knowledge",
     "href": "part-6.html#test-your-knowledge",
-    "title": "6  Connecting to Linux Server?",
+    "title": "6  Connecting to Linux Server",
     "section": "6.2 Test your knowledge",
-    "text": "6.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nQuestion 1?\n\n a1 a2 a3\n\nQuestion 2?\n\n a1 a2 a3"
+    "text": "6.2 Test your knowledge\nAfter watching the video, check your knowledge by answering the following questions.\n\nWhat command do you use to log in?\n\n terminal SSH submit\n\nDoes the name of your login node start with\n\n hpc-int xanadu hpc-ext"
   },
   {
     "objectID": "part-7.html#watch-the-video",
